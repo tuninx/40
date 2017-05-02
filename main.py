@@ -100,7 +100,7 @@ orders = {
     'lvl_def': '+1 🛡Защита',
     'lvl_atk': '+1 ⚔️Атака',
     'lvl_off': 'Выключен'
-    'kirka': '/on_119',
+    'kirka': '/on_120',
     'rapira': '/on_106',
 }
 
@@ -145,8 +145,8 @@ gold_to_left = 0
 
 bot_enabled = True
 arena_enabled = True
-les_enabled = False
-peshera_enabled = True
+les_enabled = True
+peshera_enabled = False
 corovan_enabled = True
 order_enabled = True
 auto_def_enabled = True
